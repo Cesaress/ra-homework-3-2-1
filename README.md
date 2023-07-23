@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s2ccp30w09834si2?svg=true)](https://ci.appveyor.com/project/Cesaress/ra-homework-3-2-1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
